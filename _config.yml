@@ -36,7 +36,7 @@ linkedin_username: martin-schmelzer
 # Additional icon links
 additional_links:
 - title: Research Gate
-  icon: images/researchgate-brands.svg
+  icon: "fa-brands fa-researchgate"
   url: https://www.researchgate.net/profile/Martin-Schmelzer
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
