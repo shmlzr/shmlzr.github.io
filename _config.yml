@@ -51,7 +51,10 @@ additional_links:
 # About Section
 about_title: Profile
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
-# about_content: | # this will include new lines to allow paragraphs
+about_content: | # this will include new lines to allow paragraphs
+Mathematical oriented professional with experience in data science and data engineering. Fascinated by fusing measurement data and mathematical modelling
+to create solutions for challenging technical problems with relevance to society. Enthusastic learner, challenged by complex problems requiring creative solutions,
+possibly in a dynamic, multi-cultural team.
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 # 
 #   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
