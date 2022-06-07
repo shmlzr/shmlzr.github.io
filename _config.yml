@@ -36,7 +36,7 @@ linkedin_username: martin-schmelzer
 # Additional icon links
 additional_links:
 - title: Research Gate
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  icon: images/researchgate-brands.svg
   url: https://www.researchgate.net/profile/Martin-Schmelzer
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -112,7 +112,7 @@ additional_links:
 #       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
